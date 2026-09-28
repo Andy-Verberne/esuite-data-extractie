@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2025 Dimpact
+ * SPDX-License-Identifier: EUPL-1.2+
+ */
+
 plugins {
     kotlin("jvm") version "2.3.20"
     kotlin("plugin.allopen") version "2.3.20"

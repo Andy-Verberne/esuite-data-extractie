@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2025 Dimpact
+ * SPDX-License-Identifier: EUPL-1.2+
+ */
+
 package net.atos.esuite.extract.db.dsr.entity.definitie
 
 import jakarta.persistence.DiscriminatorValue
